@@ -1,0 +1,207 @@
+<mjml>
+  <mj-head>
+  <mj-title>Start Wars Mando Mania </mj-title>
+    <mj-style>
+      * {
+        box-sizing: border-box;
+
+      }
+    </mj-style>
+
+    <mj-style inline="inline">
+      .bg-color {
+        background-color: #2C5F73;
+      }
+
+      .footer {
+        text-decoration: underline !important;
+        color: #F2F2F2 !important;
+        font-weight: bold;
+
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#0D0D0D">
+    <mj-raw>
+      <!--    Disney Logo   -->
+    </mj-raw>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image padding="0" src="https://i.ibb.co/0tMYfN7/banner.jpg" alt="Disney Logo" href="https://www.disney.com/#logo" />
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!--   Hero Image #1 -->
+    </mj-raw>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image padding="0" src="https://i.ibb.co/9Y0rJh5/Header.jpg" alt="Star Wars Mando Mania" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-raw>
+      <!--  1st 2-Columns  -->
+    </mj-raw>
+    <mj-section padding="0">
+      <mj-group>
+        <mj-column>
+          <mj-image padding="0" src="https://i.ibb.co/qmkx4dZ/Shop-Amazon1.jpg" alt="Shop Amazon_The Mandalorian Funko Pop" href="https://www.amazon.com/Star-Wars-Mandalorian-Compatible-Protector/dp/B09HNC9XQ8/ref=sr_1_38?keywords=star+wars+mando+funko&qid=1695185316&sr=8-38" />
+        </mj-column>
+        <mj-column>
+          <mj-image padding="0" src="https://i.ibb.co/nkYbWjm/Shop-Target1.jpg
+    " alt="Shop Target_LEGO Star Wars" href="https://www.target.com/p/lego-star-wars-the-mandalorian-8217-s-n-1-starfighter-microfighter-75363/-/A-87830695" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-raw>
+      <!--  2nd 2-Columns  -->
+    </mj-raw>
+    <mj-section padding="0">
+      <mj-group>
+        <mj-column>
+          <mj-image padding="0" src="https://i.ibb.co/VV2j0j1/Shop-Target2.jpg" alt="Shop Target_Star Wars Wild Ridin' Grogu" href="https://www.target.com/p/star-wars-wild-ridin-39-grogu/-/A-84794137#lnk=sametab" />
+        </mj-column>
+        <mj-column>
+          <mj-image padding="0" src="https://i.ibb.co/ygkTvCp/Shop-Walmart.jpg
+    " alt="Shop Walmart_the Mandalorian and Grogu Interactive Electronic Figures" href="https://www.walmart.com/ip/Star-Wars-Galactic-Action-the-Mandalorian-Grogu-Interactive-Electronic-Figures/342475018" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-raw>
+      <!--  3rd 2-Columns  -->
+    </mj-raw>
+    <mj-section padding="0">
+      <mj-group>
+        <mj-column>
+          <mj-image padding="0" src="https://i.ibb.co/GV0B7B5/Shop-Logitech.jpg" alt="Shop Logitech_A30 THE MANDALORIAN™ EDITION" href="https://www.astrogaming.com/en-us/products/headsets/a30-the-mandalorian-edition.html" />
+        </mj-column>
+        <mj-column>
+          <mj-image padding="0" src="https://i.ibb.co/m5r1LvV/Shop-Target3.jpg" alt="Shop Target_Star Wars: The Mandalorian Electronic Mask" href="https://www.target.com/p/star-wars-the-mandalorian-electronic-mask/-/A-83351511" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-raw>
+      <!--   Hero Image #2-->
+    </mj-raw>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image padding="0" src="https://i.ibb.co/cx89YPy/Shop-Amazon2.jpg" alt="Shop Amazon_The Mandolorian" href="https://www.amazon.com/stores/page/3C1DC5B1-63E5-40B2-B739-A279A389BAF3?channel=MandoManiaCRM" />
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!--  4th 2-Columns  -->
+    </mj-raw>
+    <mj-section padding="0">
+      <mj-group>
+        <mj-column>
+          <mj-image padding="0" src="https://i.ibb.co/GvT11wm/Shop-RSVLTS.jpg" alt="Shop RSVLTS" href="https://www.rsvlts.com/products/star-wars-mandalorian-real-mandalorian-hero-kunuflex-short-sleeve-shirt" />
+        </mj-column>
+        <mj-column>
+          <mj-image padding="0" src="https://i.ibb.co/sRq1wqr/ShopErin.jpg" alt="Shop Erin Condren" href="https://www.erincondren.com/star-wars-metallic-this-is-the-way-lifeplanner" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-raw>
+      <!--  5th 2-Columns  -->
+    </mj-raw>
+    <mj-section padding="0">
+      <mj-group>
+        <mj-column>
+          <mj-image padding="0" src="https://i.ibb.co/hcHycn9/Shop-Joffrey.jpg" alt="Shop Joffrey's" href="https://joffreys.com/shop/star-wars/star-wars-the-mandalorian-precious-cargo-blend/#keepshopping" />
+        </mj-column>
+        <mj-column>
+          <mj-image padding="0" src="https://i.ibb.co/LpQxHFr/Shop-Amazon3.jpg" alt="Shop Amazon_Grogu I’m With Mando T-Shirt" href="https://www.amazon.com/dp/B0BSR94SW4/ref=cm_sw_r_as_gl_api_gl_i_QN1HHJA61KYFAPENY8CA?linkCode=ml1&tag=wasitgood-20" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-raw>
+      <!--   Footer -->
+    </mj-raw>
+    <mj-section padding="0" css-class="bg-color">
+      <mj-column>
+        <mj-image padding="15px 0 0" align="center" width="100%" src="https://i.ibb.co/XsL2mNf/logo-disney-white.png" href="https://www.disney.com/" alt="Disney Logo" />
+      </mj-column>
+
+      <mj-section padding="0" css-class="bg-color">
+        <mj-column>
+          <mj-text color="#F2F2F2" align="center" font-size="12px">
+            <a href="https://x.e.disneyconsumerproductsinteractive.com/ats/msg.aspx?sg1=7b35bc88b5cf864b135145e1e7bc61b6f1af1565a4903686bb6d430a1668277b" class="footer">View Online</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0" css-class="bg-color">
+        <mj-column>
+          <mj-text color="#F2F2F2" align="center" font-size="12px" font-weight="normal" line-height="1">
+            Clicking on third party links and their associated images, including Amazon, Target, Walmart, Logitech, RSVLTS, Erin Condren, and Joffrey's will take you away from our Disney site where different terms of use and privacy policy apply.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0" css-class="bg-color">
+        <mj-column>
+          <mj-text color="#F2F2F2" align="center" font-size="12px" font-weight="normal" line-height="1">
+            This e-mail was sent to: JAMALRAYNELL@YAHOO.COM
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0" css-class="bg-color">
+        <mj-column>
+          <mj-text color="#F2F2F2" align="center" font-size="12px" font-weight="normal" line-height="15px">
+            Please do not reply to this e-mail as this address is not monitored.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0" css-class="bg-color">
+        <mj-column>
+          <mj-text color="#F2F2F2" align="center" font-size="12px" font-weight="normal" line-height="1">
+            You are receiving this email because you agreed to receive updates, special offers, and other information from The Walt Disney Family of Companies.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0" css-class="bg-color">
+        <mj-column>
+          <mj-text color="#F2F2F2" align="center" font-size="12px" font-weight="normal" line-height="1">
+            This e-mail contains an advertisement from: Disney Consumer Products and Interactive Media | 500 Buena Vista Street | Burbank, CA 91521
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0" css-class="bg-color">
+        <mj-column>
+          <mj-text color="#F2F2F2" align="center" font-size="12px" font-weight="normal" line-height="1">
+            <a href="https://x.e.disneyconsumerproductsinteractive.com/ats/msg.aspx?sg1=7b35bc88b5cf864b135145e1e7bc61b6f1af1565a4903686bb6d430a1668277b" class="footer">Stop all types of future commercial email </a> from Disney Consumer Products and Interactive Media regarding its products and services.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0" css-class="bg-color">
+        <mj-column>
+          <mj-text color="#F2F2F2" align="center" font-size="12px" font-weight="normal" line-height="1">
+            <a href="https://x.e.disneyconsumerproductsinteractive.com/ats/msg.aspx?sg1=7b35bc88b5cf864b135145e1e7bc61b6f1af1565a4903686bb6d430a1668277b" class="footer">Manage all email preferences</a> from The Walt Disney Family of Companies.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0" css-class="bg-color">
+        <mj-column>
+          <mj-text color="#F2F2F2" align="center" font-size="12px" font-weight="normal" line-height="1">
+            © 2023 Disney. All Rights Reserved.<br> © & ™ 2023 Lucasfilm Ltd. All Rights Reserved. <br> All other devices, platforms, titles, and related copyrights and trademarks are the property of their respective owners.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+  </mj-body>
+</mjml>
